@@ -1,0 +1,6 @@
+{
+  "name": "WindLens — UK Wind Energy Decision Support Platform",
+  "description": "Day-ahead wind generation forecast accuracy analysis, deviation tracking, and purchasing decision support for UK electricity market participants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

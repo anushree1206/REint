@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <script>
+      if (typeof window !== 'undefined' && !window.__nativeFetch) {
+        window.__nativeFetch = window.fetch.bind(window);
+      }
+    </script>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WindLens — UK Wind Energy Decision Support Platform</title>
+    <meta name="description" content="Day-ahead wind generation forecast accuracy analysis, deviation tracking, and purchasing decision support for UK electricity market participants." />
+    <meta property="og:title" content="WindLens — UK Wind Energy Decision Support Platform" />
+    <meta property="og:description" content="Day-ahead wind generation forecast accuracy analysis, deviation tracking, and purchasing decision support for UK electricity market participants." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+
