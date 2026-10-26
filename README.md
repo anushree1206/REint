@@ -10,13 +10,6 @@ electricity purchasing.
 > rule-based purchasing suggestions are illustrative, not automated
 > trading instructions or a guarantee of financial results.
 
-## Live application
-
-**Deployed app:** `ADD_YOUR_VERCEL_OR_HEROKU_URL_HERE`
-
-Replace the placeholder above with your working public deployment URL
-before submitting the project. Open the URL in an incognito/private
-browser window to confirm that reviewers can access it.
 
 ## Problem this project addresses
 
