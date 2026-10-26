@@ -10,6 +10,8 @@ electricity purchasing.
 > rule-based purchasing suggestions are illustrative, not automated
 > trading instructions or a guarantee of financial results.
 
+## Live application
+**Deployed app:** `https://reint-beryl.vercel.app/`
 
 ## Problem this project addresses
 
